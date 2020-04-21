@@ -1,0 +1,56 @@
+[
+    {
+        "avatar": "/images/a.jpg",
+        "employeeID": "ES 100",
+        "name": "Fred Awotwe",
+        "gender": "Male",
+        "department": "Production",
+        "email":"fredawo@gmailcom",
+        "contact": "0540003090"
+    },
+    {
+        "avatar": "../images/b.jpg",
+        "employeeID": "ES 200", 
+        "name": "Naira Marley",
+        "gender": "Male",
+        "department": "Production",
+        "email":"nairley@gmailcom",
+        "contact": "0263000400"
+    },
+    {
+        "avatar": "../images/c.jpg",
+        "employeeID": "ES 300",
+        "name": "Deodat Adomako",
+        "gender": "Male",
+        "department": "Production",
+        "email":"deomako@gmailcom",
+        "contact": "0541236789"
+    },
+    {
+        "avatar": "../images/g.jpg",
+        "employeeID": "ES 400",
+        "name": "Aunty Erama",
+        "gender": "female",
+        "department": "Production",
+        "email":"auntyerama@gmailcom",
+        "contact": "0203040899"
+    }, 
+    {
+        "avatar": "../images/d.jpg",
+        "employeeID": "ES 900", 
+        "name": "Naira Marley",
+        "gender": "Male",
+        "department": "Production",
+        "email":"nairley@gmailcom",
+        "contact": "0263000400"
+    },
+    {
+        "avatar": "../images/e.jpg",
+        "employeeID": "ES 250", 
+        "name": "Atemanu Mensah",
+        "gender": "Male",
+        "department": "Production",
+        "email":"nairley@gmailcom",
+        "contact": "0263000400"
+    }
+] 

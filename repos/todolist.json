@@ -1,0 +1,26 @@
+[
+    {
+        "activity": "Prepare Monthly report",
+        "done" : "I",
+        "created_at" : "18/04/2020",
+        "status" : "✅"
+    },
+    {
+        "activity": "Prepare Monthly Budget ",
+        "done" : false,
+        "created_at" : "18/04/2020",
+        "status" : "❌"
+    },
+    {
+        "activity": "Attend Meetings",
+        "done" : true,
+        "created_at" : "18/04/2020",
+        "status" : "❌"
+    },
+    {
+        "activity": "Prepare Monthly expenses",
+        "done" : false,
+        "created_at" : "18/04/2020",
+        "status" : "❌"
+    }
+]
